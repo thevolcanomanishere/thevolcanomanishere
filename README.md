@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex McGonagle</h1>
 <h3 align="center">I am an entrepreneur and software engineer from Ireland</h3>
 
-- 🔭 I’m currently working on [mello DeFi](https://alpha.mellodefi.com)
+- 🔭 I’m currently working on [mello DeFi](https://alpha.mellodefi.com) and [The DeFi Coach](https://thedeficoach.com)
 
 - 🌱 I’m currently learning **Solidity, Hardhat, and Foundry**
 
