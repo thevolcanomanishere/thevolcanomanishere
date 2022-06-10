@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Solidity, Hardhat, and Foundry**
 
-- 💬 Ask me about **React, Node.js, Decentralized finance**
+- 💬 Ask me about **React, Node.js, Decentralized Finance**
 
 - 📫 How to reach me **alex.mcgonagle.dev@gmail.com**
 
