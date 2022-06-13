@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [mello DeFi](https://alpha.mellodefi.com) and [The DeFi Coach](https://thedeficoach.com)
 
-- 🌱 I’m currently learning **Solidity, Hardhat, and Foundry**
+- 🌱 I’m learning **Solidity, Hardhat, Foundry, and Next.js**
 
 - 💬 Ask me about **React, Node.js, Decentralized Finance**
 
