@@ -17,7 +17,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thevolcanomanishere&hide=java)](https://github.com/thevolcanomanishere/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thevolcanomanishere)](https://git.io/streak-stats)
 
 <br>
 
