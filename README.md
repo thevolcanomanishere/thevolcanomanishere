@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, Node.js, Decentralized Finance**
 
-- 📫 How to reach me **alex.mcgonagle.dev@gmail.com**
+- 📫 How to reach me **alex.mcgonagle.dev@gmail.com** 🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
