@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [mello DeFi](https://alpha.mellodefi.com) and [The DeFi Coach](https://thedeficoach.com)
 
-- 🌱 I’m learning **React, Tailwind accessibility, GraphQL, Next.js, Vite and centering divs**
+- 🌱 I’m learning **React, Tailwind, accessibility, GraphQL, Next.js, Vite and centering divs**
 
 - 📫 How to reach me **alex.mcgonagle.dev@gmail.com** 🚀
 
