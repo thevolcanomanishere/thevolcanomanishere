@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [mello DeFi](https://alpha.mellodefi.com) and [The DeFi Coach](https://thedeficoach.com)
 
-- 🌱 I’m learning **Solidity, Hardhat, Foundry, GraphQL, Next.js, and centering divs**
-
-- 💬 Ask me about **React, Node.js, Decentralized Finance**
+- 🌱 I’m learning **React, Tailwind accessibility, GraphQL, Next.js, Vite and centering divs**
 
 - 📫 How to reach me **alex.mcgonagle.dev@gmail.com** 🚀
+
+- 🖼 Check out my FrontendMentor.io profile -> [Profile](https://www.frontendmentor.io/profile/thevolcanomanishere)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
