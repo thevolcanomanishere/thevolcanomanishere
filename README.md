@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex McGonagle</h1>
 <h3 align="center">I am an entrepreneur and developer from Ireland</h3>
 
-- 🔭 I’m currently working on [mello DeFi](https://alpha.mellodefi.com) and [The DeFi Coach](https://thedeficoach.com)
+- 🔭 Working with [Hypotenuse Labs 🧪](https://hypotenuse.ca)
 
 - 🌱 I’m learning **React, Tailwind, accessibility, GraphQL, Next.js and centering divs**
 
