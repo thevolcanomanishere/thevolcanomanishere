@@ -3,7 +3,7 @@
 
 - 🔭 Working with [Hypotenuse Labs 🧪](https://hypotenuse.ca)
 
-- 🌱 I’m learning **React, Tailwind, accessibility, GraphQL, Next.js and centering divs**
+- 🌱 I’m learning **If statements, centering divs using AI, how to write commit messages**
 
 - 📫 How to reach me **alex.mcgonagle.dev@gmail.com** 🚀
 
