@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Alex McGonagle</h1>
-<h3 align="center">I am an entrepreneur and developer from Ireland</h3>
-
 - 🔭 Working with [Hypotenuse Labs 🧪](https://hypotenuse.ca)
 
 - 🌱 I’m learning **If statements, centering divs using AI, how to write commit messages**
