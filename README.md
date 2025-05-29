@@ -1,4 +1,4 @@
-- 🔭 Working with [Hypotenuse Labs 🧪](https://hypotenuse.ca)
+- 🔭 Working with [Lazer 🚨](https://www.lazertechnologies.com/)
 
 - 🌱 I’m learning **If statements, centering divs using AI, how to write commit messages**
 
