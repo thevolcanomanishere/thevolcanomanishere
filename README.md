@@ -1,5 +1,3 @@
-- 🔭 Working with [Lazer 🚨](https://www.lazertechnologies.com/)
-
 - 🌱 I’m learning **If statements, centering divs using AI, how to write commit messages**
 
 - 📫 How to reach me **alex.mcgonagle.dev@gmail.com** 🚀
